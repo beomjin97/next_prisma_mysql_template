@@ -4,7 +4,7 @@
 - Typescript
 - Prisma
 - Mysql
--
+- Jest + testing-library
 
 ## Prisma
 
